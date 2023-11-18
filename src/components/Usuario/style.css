@@ -1,0 +1,22 @@
+.contenedor-usuario {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    border: 4px solid  rgb(243, 184, 184);
+    padding: 1rem;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgb(243, 184, 184);
+}
+
+.contenedor-usuario img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+
+}
+.contenedor-usuario button{
+    width: 5rem;
+    height: 1.5rem;
+}
